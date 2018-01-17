@@ -1,6 +1,6 @@
 from PyPDF2 import PdfFileReader, PdfFileWriter
 
-pdf = PdfFileReader("clrs.pdf")
+pdf = PdfFileReader("") # Local Path for pdf goes here....
 pdfW = PdfFileWriter()
 
 
